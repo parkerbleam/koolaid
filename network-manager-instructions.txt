@@ -1,0 +1,6 @@
+nmcli con add con-name ERI ifname wlan0 type wifi ssid ElderResearch
+nmcli con modify ERI wifi-sec.key-mgmt wpa-psk
+nmcli con modify ERI wifi-sec.psk 4349737673
+ps aux | grep wpa
+sudo kill -9 XXXX
+nmcli con up ERI
