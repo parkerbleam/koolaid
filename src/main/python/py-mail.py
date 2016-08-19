@@ -1,9 +1,9 @@
 import smtplib
 
-username = 'bleam.parker@gmail.com'
-password = '***REMOVED***'
-fromaddr = 'bleam.parker@gmail.com'
-toaddrs = '***REMOVED***@txt.att.net'
+username = 'email'
+password = 'password'
+fromaddr = 'email'
+toaddrs = 'phone-num@txt.att.net'
 
 msg = '\nHELLO'
 
