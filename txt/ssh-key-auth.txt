@@ -1,0 +1,3 @@
+The following command should be used to authenticate an ssh deploy key if a passphrase is used. 
+This should prompt for the passphrase for the given key once and then remember it from then on:
+ssh -T -ai ~/.ssh/koolaid_key git@github.com

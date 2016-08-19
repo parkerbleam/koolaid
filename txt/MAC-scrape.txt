@@ -1,0 +1,8 @@
+MAC Address: 24:A2:E1:E7:A7:A5 (Apple)
+MAC Address: 74:75:48:C7:06:E8 (Amazon Technologies)
+MAC Address: 58:82:A8:22:68:66 (Unknown)
+MAC Address: 24:A2:E1:E7:A7:A5 (Apple)
+MAC Address: B8:27:EB:89:8C:32 (Raspberry Pi Foundation)
+MAC Address: 24:A2:E1:E7:A7:A5 (Apple)
+MAC Address: 70:DE:E2:15:80:B8 (Apple)
+Thu 18 Aug 19:01:54 UTC 2016
